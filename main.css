@@ -1,0 +1,115 @@
+@media (min-width: 1020px)
+.lfzmMC {
+    display: flex;
+}
+
+
+.lfzmMC {
+    -webkit-box-align: center;
+    align-items: center;
+    display: none;
+    flex: 1 1 0%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.YzmxZ {
+    padding: 0px;
+    margin: 0px;
+}
+
+.JjpRH {
+    display: inline-block;
+    position: relative;
+}
+
+.gzeBqH {
+    padding: 13px 20px;
+    font-weight: 400;
+    font-size: 15px;
+    color: var(--color--CHARCOAL-400);
+    cursor: pointer;
+}
+
+.fDiEEl {
+    display: flex;
+    background: white;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 3px 3px, rgba(0, 0, 0, 0.15) 0px 5px 25px;
+    left: -20px;
+    list-style: none;
+    margin: 0px;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 38px;
+    transition: opacity 0.2s cubic-bezier(0.165, 0.84, 0.44, 1) 0s, transform 0.2s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+    will-change: opacity, transform;
+    z-index: 10;
+}
+
+
+.fDiEEl {
+    display: flex;
+    background: white;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 3px 3px, rgba(0, 0, 0, 0.15) 0px 5px 25px;
+    left: -20px;
+    list-style: none;
+    margin: 0px;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 38px;
+    transition: opacity 0.2s cubic-bezier(0.165, 0.84, 0.44, 1) 0s, transform 0.2s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+    will-change: opacity, transform;
+    z-index: 10;
+}
+
+.eRyhga.eRyhga {
+    appearance: none;
+    border: 0px;
+    display: inline-block;
+    outline: 0px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955) 0s;
+    vertical-align: middle;
+    background: transparent;
+    color: var(--color--CHARCOAL-500);
+    font-weight: 400;
+}
+
+.eRyhga {
+    padding: 0px 20px;
+    line-height: 40px;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+
+.cRkTrf.cRkTrf {
+    appearance: none;
+    border: 0px;
+    display: inline-block;
+    font-weight: 500;
+    outline: 0px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955) 0s;
+    vertical-align: middle;
+    background-color: var(--color--BLUE-500);
+    color: white;
+}
+
+.cRkTrf {
+    padding: 0px 20px;
+    line-height: 40px;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 4px;
+}
